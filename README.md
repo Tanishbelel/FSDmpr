@@ -24,11 +24,11 @@ Built using **React** for the frontend and **Supabase** for the backend,helps st
 
 ---
 
+## Video Link - https://drive.google.com/file/d/1VibTONsS3kenTuKj0IdkD7LqvKC0dftS/view?usp=sharing
+
 ## 📦 Getting Started
 
 Follow these steps to run the project locally:
-
-## Video Link - https://drive.google.com/file/d/1VibTONsS3kenTuKj0IdkD7LqvKC0dftS/view?usp=sharing
 
 ### 1. Clone the Repository
 
