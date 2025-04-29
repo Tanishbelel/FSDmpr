@@ -1,8 +1,8 @@
-# 🎓 SAMS – Student Achievement Management System
+# 🎓FSD MINI PROJECT
 
-SAMS is a platform designed to empower college students by making their academic and extracurricular achievements visible to their peers. Whether it's publishing a paper, winning a hackathon, or building a project, SAMS ensures no achievement goes unnoticed.
+A platform designed to empower college students by making their academic and extracurricular achievements visible to their peers. Whether it's publishing a paper, winning a hackathon, or building a project, SAMS ensures no achievement goes unnoticed.
 
-Built using **React** for the frontend and **Supabase** for the backend, SAMS helps students **connect, collaborate, and get inspired**.
+Built using **React** for the frontend and **Supabase** for the backend,helps students **connect, collaborate, and get inspired**.
 
 ---
 
@@ -32,7 +32,6 @@ Follow these steps to run the project locally:
 
 ```bash
 git clone https://github.com/Tanishbelel/FSDmpr.git
-cd project
 npm install
 npm run dev
 
