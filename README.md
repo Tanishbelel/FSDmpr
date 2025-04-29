@@ -28,6 +28,8 @@ Built using **React** for the frontend and **Supabase** for the backend,helps st
 
 Follow these steps to run the project locally:
 
+## Video Link - https://drive.google.com/file/d/1VibTONsS3kenTuKj0IdkD7LqvKC0dftS/view?usp=sharing
+
 ### 1. Clone the Repository
 
 ```bash
@@ -35,4 +37,3 @@ git clone https://github.com/Tanishbelel/FSDmpr.git
 npm install
 npm run dev
 
-video link - https://drive.google.com/file/d/1VibTONsS3kenTuKj0IdkD7LqvKC0dftS/view?usp=sharing
