@@ -26,6 +26,8 @@ Built using **React** for the frontend and **Supabase** for the backend,helps st
 
 ## Video Link - https://drive.google.com/file/d/1VibTONsS3kenTuKj0IdkD7LqvKC0dftS/view?usp=sharing
 
+##PPT Link - https://www.canva.com/design/DAGmH659Z9E/sPKIxZc498SoPYVeH2vGWg/edit?utm_content=DAGmH659Z9E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## 📦 Getting Started
 
 Follow these steps to run the project locally:
